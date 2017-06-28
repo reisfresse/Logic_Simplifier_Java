@@ -1,0 +1,56 @@
+﻿# Name: LogicSimplifier
+# Entwickler: ReisfresseDE
+# Version: 1.3.3.1
+
+TODO:
+- -
+----------
+
+1.3.3.1
+- Initiierung in Program.cs von MainForm Mf erst in main()
+
+1.3.3
+- KeyUp im MainForm
+  Strg + Shift + D -> DebugForm
+- Close-Button in DebugForm
+
+1.3.2
+- Code Verkürzungen
+  (ReSharper)
+- Nach dem Verändern der Werte in DNF muss nochmal kontrolliert werden
+
+1.3.1
+- Versionsnummer gekürzt
+- EasterEgg deaktiviert
+
+1.0.3.0
+- OgarIO Server hinzugefügt.
+  Passwort: RFDE
+- Erkennt IP und gibt diese aus + Link, um Agar.io zu spielen
+
+1.0.2.5
+- Alle Fenster nur noch möglich ein Mal zu öffnen
+- "Über"-Fenster kann nicht mehr maximiert werden
+
+1.0.2.4
+- Korrektur im About Fenster
+  "is" -> "ist"
+- 2er QMC Verfahren verbessert
+- Main.cs "Über"-Rechtsklickaktion deaktiviert
+
+1.0.2.3
+- Zwischen den Klammern Zeichen korrigiert. Ersetzung von '+' durch '*'
+
+1.0.2.2
+- Schreibweise für NICHT '~' ersetzt durch '¬', da es gebräuchlicher ist
+  (DNF.cs; KV.cs)
+
+1.0.2.1
+- Alle Fenster sind jetzt FixedDialog Fenster
+
+1.0.2.0
+- Code für 3er aufgefrischt und auf den Stand vom 4er gebracht
+- Fehler im 3er behoben
+
+1.0.1.0
+- Beta Quellcode fertiggestelt
